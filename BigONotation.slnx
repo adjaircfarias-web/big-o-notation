@@ -2,5 +2,6 @@
   <Folder Name="/src/">
     <Project Path="src/O1Example/O1Example.csproj" />
     <Project Path="src/OLogExample/OLogExample.csproj" />
+    <Project Path="src/OLinearExample/OLinearExample.csproj" />
   </Folder>
 </Solution>
