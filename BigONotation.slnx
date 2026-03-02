@@ -3,5 +3,6 @@
     <Project Path="src/O1Example/O1Example.csproj" />
     <Project Path="src/OLogExample/OLogExample.csproj" />
     <Project Path="src/OLinearExample/OLinearExample.csproj" />
+    <Project Path="src/ON2Example/ON2Example.csproj" />
   </Folder>
 </Solution>
